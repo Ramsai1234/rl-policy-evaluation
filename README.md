@@ -30,6 +30,8 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 ## POLICY EVALUATION FUNCTION
 ![image](https://github.com/Ramsai1234/rl-policy-evaluation/assets/94269989/2b88bb7f-5239-4de9-884a-7f95f6169684)
 ## Program:
+Developed by:PUNUGOTI RAMSAI
+REG NO:212221240041
 ```
 pip install git+https://github.com/mimoralea/gym-walk#egg=gym-walk
 
